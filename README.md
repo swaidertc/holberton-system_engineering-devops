@@ -1,2 +1,2 @@
 #!/bin/bash
-proyect
+Shell permisions
